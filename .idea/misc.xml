@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ProyectosAndroid/Concesionario_jueves/app/src/main/res/layout/activity_cliente.xml" value="0.24010416666666667" />
+        <entry key="..\:/ProyectosAndroid/prueba1/Concesionario_jueves/app/src/main/res/layout/activity_cliente.xml" value="0.264" />
+        <entry key="..\:/ProyectosAndroid/prueba1/Concesionario_jueves/app/src/main/res/layout/activity_factura.xml" value="0.264" />
+        <entry key="..\:/ProyectosAndroid/prueba1/Concesionario_jueves/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/ProyectosAndroid/prueba1/Concesionario_jueves/app/src/main/res/layout/activity_menu.xml" value="0.24010416666666667" />
+        <entry key="..\:/ProyectosAndroid/prueba1/Concesionario_jueves/app/src/main/res/layout/activity_vehiculo.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/206/AndroidStudioProjects/Concesionario_jueves/app/src/main/res/layout/activity_cliente.xml" value="0.22" />
+        <entry key="..\:/Users/206/AndroidStudioProjects/Concesionario_jueves/app/src/main/res/layout/activity_factura.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/206/AndroidStudioProjects/Concesionario_jueves/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/206/AndroidStudioProjects/Concesionario_jueves/app/src/main/res/layout/activity_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/206/AndroidStudioProjects/Concesionario_jueves/app/src/main/res/layout/activity_vehiculo.xml" value="0.2" />
+        <entry key="..\:/Users/PABLO/Downloads/Concesionario_jueves/Concesionario_jueves/app/src/main/res/layout/activity_cliente.xml" value="0.1796875" />
+        <entry key="..\:/Users/PABLO/Downloads/Concesionario_jueves/Concesionario_jueves/app/src/main/res/layout/activity_factura.xml" value="0.1796875" />
+        <entry key="..\:/Users/PABLO/Downloads/Concesionario_jueves/Concesionario_jueves/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/PABLO/Downloads/Concesionario_jueves/Concesionario_jueves/app/src/main/res/layout/activity_menu.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/PABLO/Downloads/Concesionario_jueves/Concesionario_jueves/app/src/main/res/layout/activity_vehiculo.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Zeip/AndroidStudioProjects/prueba1/Concesionario_jueves/app/src/main/res/layout/activity_factura.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Zeip/AndroidStudioProjects/prueba1/Concesionario_jueves/app/src/main/res/layout/activity_vehiculo.xml" value="0.2957427536231884" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
